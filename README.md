@@ -6,7 +6,7 @@
 <a href="http://avery.is-a.dev"><img alt="Website" src="https://img.shields.io/badge/website-avery.is--a.dev-gray?labelColor=purple"></a>
 <a href="https://clyron.wetdry.world"><img alt="Fediverse" src="https://img.shields.io/badge/fedi-clyron@wetdry.world-gray?labelColor=orange"></a>
 <a href="http://bsky.app/profile/did:plc:fqvzbqsjzjkl4o66rfp6cgk3"><img alt="Bluesky" src="https://img.shields.io/badge/bsky-avery.is--a.dev-gray?labelColor=lightblue"></a>
-<a href="#"><img alt="Discord" src="https://img.shields.io/badge/discord-oneaveryahead-gray?labelColor=blue"></a>
+<a href="#"><img alt="Discord" src="https://img.shields.io/badge/discord-averyeclipse-gray?labelColor=blue"></a>
 </div>
 
 my name is **Avery** *(also known as AveryEclipse)*! ^^\
