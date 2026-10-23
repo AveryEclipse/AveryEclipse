@@ -1,15 +1,15 @@
-![](./github_banner.png)
+![](./gh-banner.svg)
 <div align="center">
 <h2>👋 Hi there! 👋</h2>
 </div>
 <div align="center">
 <a href="http://avery.is-a.dev"><img alt="Website" src="https://img.shields.io/badge/website-avery.is--a.dev-gray?labelColor=purple"></a>
-<a href="#"><img alt="Discord" src="https://img.shields.io/badge/discord-averyeclipse-gray?labelColor=blue"></a>
+<a href="#"><img alt="Discord" src="https://img.shields.io/badge/discord-avyneko-gray?labelColor=blue"></a>
 <a href="https://wetdry.world/@clyron"><img alt="Fediverse" src="https://img.shields.io/badge/fedi-clyron@wetdry.world-gray?labelColor=orange"></a>
 <a href="http://bsky.app/profile/did:plc:fqvzbqsjzjkl4o66rfp6cgk3"><img alt="Bluesky" src="https://img.shields.io/badge/bsky-avery.is--a.dev-gray?labelColor=lightblue"></a>
 </div>
 
-I am ***AveryEclipse***, or *Avery* for short ^^\
+I am ***avyneko***, but you can call me *Avery* ^^\
 I do coding then wonder why something that isn't supposed to break breaks
 
 mainly doing web development stuff (HTML/CSS) though occasionally may also write some JavaScript\
